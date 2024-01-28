@@ -1,0 +1,2 @@
+maks 300
+nastya 0
